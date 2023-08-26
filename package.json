@@ -1,0 +1,21 @@
+{
+  "name": "threejs-boiler",
+  "version": "1.0.0",
+  "description": "This is a boiler project for getting started with the three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eason Kang <eason.kang@autodesk.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.1",
+    "three": "^0.103.0"
+  },
+  "dependencies": {
+    "geolib": "^3.3.3"
+  }
+}

@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+  background-color: #000000;
+  overflow: hidden;
+}
+
+button#animate {
+  z-index: 10;
+ position: absolute;
+} 
